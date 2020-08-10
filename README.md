@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/kcNCkMB/Clean-Shot-2020-08-09-at-22-14-33.png" align="center" height="undefined" width="1002" />
 </div>  
 
-### <div align="center">I'm Yurui, currently a full-time web developer. 👨‍💻 </div>  
+### <div align="center">I'm Yurui, a full-time web developer. 👨‍💻 </div>  
 
 ### About me:  
 - Software Developer since 2011.
@@ -72,4 +72,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div style="font-size: 10px" align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
