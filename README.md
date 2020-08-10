@@ -65,8 +65,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [What do you do with your old programming books?](https://dev.to/pallymore/what-do-you-do-with-your-old-programming-books-4ned)
+- [Make Your Own create-react-app Templates](https://dev.to/pallymore/make-your-own-create-react-app-templates-feo)
+- [Testing API Request Hooks with Jest, Sinon, and react-testing-library](https://dev.to/pallymore/testing-api-request-hooks-with-jest-sinon-and-react-testing-library-3ncf)
+- [Use Hooks In Class Components Too](https://dev.to/pallymore/use-hooks-in-class-components-too-2nog)
+- [Avoid Those Mistakes When You Work On Your Next Take-Home Interview Assignment](https://dev.to/pallymore/avoid-those-mistakes-when-you-work-on-your-next-take-home-interview-assignment-2kak)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
