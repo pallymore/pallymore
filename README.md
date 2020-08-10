@@ -1,26 +1,16 @@
 <div align="center">
 <img src="https://i.ibb.co/kcNCkMB/Clean-Shot-2020-08-09-at-22-14-33.png" align="center" height="undefined" width="1002" />
 </div>  
-  
 
 ### <div align="center">I'm Yurui, currently a full-time web developer. 👨‍💻 </div>  
-  
 
 ### About me:  
-- Software Developer since 2011.   
-  
+- Software Developer since 2011.
+- I'm passionate about clean and testable code.
+- Learning Go and grpc in my free time.
+- Ask me about anything related to React/JavaScript/TypeScript!
 
-- I'm passionate about clean and testable code.  
-  
-
-- Learning Go and grpc in my free time.  
-  
-
-- Ask me about anything related to React/JavaScript/TypeScript!   
-  
-
-<br/>  
-
+<br/>
 
 ## I use:
 <div align="center">  
@@ -48,8 +38,7 @@
 
 <br/>  
 
-
-## Find me:  
+## Social:  
 <div align="center">
 <a href="https://github.com/pallymore" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,8 +70,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
