@@ -14,26 +14,26 @@
 
 ## I use:
 <div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="Go" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
 </div>  
 
 <br/>  
