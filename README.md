@@ -5,9 +5,10 @@
 ### <div align="center">I'm Yurui, a full-time web developer. 👨‍💻 </div>  
 
 ### About me:  
-- Software Developer since 2011.
+- Wrote my first <div> back in 1998.
+- Been fixing IE compatibility issues professionally since 2011.
 - I'm passionate about clean and testable code.
-- Learning Go and grpc in my free time.
+- Part-time gopher.
 - Ask me about anything related to React/JavaScript/TypeScript!
 
 <br/>
