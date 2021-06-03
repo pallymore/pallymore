@@ -5,7 +5,7 @@
 ### <div align="center">I'm Yurui, a full-time web developer. 👨‍💻 </div>  
 
 ### About me:  
-- Wrote my first <div> back in 1998.
+- Wrote my first &lt;div&gt; back in 1998.
 - Been fixing IE compatibility issues professionally since 2011.
 - I'm passionate about clean and testable code.
 - Part-time gopher.
